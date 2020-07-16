@@ -78,7 +78,7 @@
                                 <div class="mt-4 text-left">
                                      <a class="nav-link" href="{{ route('register') }}">¿No estas registrado?</a>
                                      @if (Route::has('password.request'))
-                                <a class="nav-link" href="{{ route('password.request') }}">¿Olvidastes tu contraseña? </a>
+                            
                                 @endif
 
                                 </div>
