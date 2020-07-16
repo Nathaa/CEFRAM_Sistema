@@ -26,7 +26,7 @@
                     
 
                     <table class="table">
-                           <thead class="thead-dark">
+                           <thead class="bg-primary">
                             <tr>
                             <th>Datos Personales Alumnas</th>
                             <th scope="col"></th>
@@ -61,7 +61,7 @@
                     </table>
                     <table class="table">
                         
-                          <thead class="thead-dark">
+                          <thead class="bg-primary">
                             <tr>
                               <th>Datos Personales del Responsable</th>
                               <th scope="col"></th>
@@ -85,7 +85,7 @@
                         </tbody>
                       </table>
                       <table class="table">
-                          <thead class="thead-dark">
+                          <thead class="bg-primary">
                             <tr>
                               <th>Datos de Enfermedades</th>
                               <th scope="col"></th>
@@ -108,7 +108,7 @@
                         </tbody>
                       </table>
                       <table class="table">
-                          <thead class="thead-dark">
+                          <thead class="bg-primary">
                             <tr>
                               <th>Datos Personales Padres</th>
                               <th scope="col"></th>

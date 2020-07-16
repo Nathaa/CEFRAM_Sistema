@@ -1,6 +1,6 @@
 @extends('admin.index2')
 @section('title')
-<h3>Modificando Expediente</h3>
+<h3>Modificando Expediente {{ $estudiante->nombre }}</h3>
 @endsection
 
 @section('content')

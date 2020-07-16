@@ -24,9 +24,9 @@
                     <br></div>
 
                     <table class="table">
-                           <thead class="thead-dark">
+                           <thead class="bg-primary">
                             <tr>
-                            <th>Datos Personales Usuario</th>
+                            <th>Datos Personales Usuarios</th>
                             <th scope="col"></th>
                             <th scope="col"></th>
                             </tr>
